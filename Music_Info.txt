@@ -1,0 +1,21 @@
+ID,Artist,Title,Medium,Genre,Purchase Date
+pm010,Post Malone,Royals,CD,Kwaito,2018-10-22
+h0200,Halsey,Kill Bill,Tape,Classical,2024-09-27
+k0300,Khalid,Leave the Door Open,Tape,Hip-Hop,2020-10-07
+or040,Olivia Rodrigo,Anti-Hero,Vinyl,Classical,2019-08-05
+pm050,Post Malone,Circles,Vinyl,Rap,2017-07-30
+ss060,Sam Smith,As It Was,Tape,Rap,2024-04-27
+dc007,Doja Cat,Bad Guy,CD,Rap,2010-01-24
+l0800,Lorde,Hotline Bling,Tape,Hip-Hop,2024-11-22
+bb090,Bad Bunny,Good 4 U,CD,Pop,2013-12-07
+dc010,Doja Cat,Titi Me Preguntó,Vinyl,Hip-Hop,2012-08-11
+l1100,Lorde,Say So,Vinyl,Pop,2015-11-04
+tw120,The Weeknd,Rolling in the Deep,Tape,Jazz,2011-07-20
+tw130,The Weeknd,Shape of You,CD,Pop,2010-08-19
+r1400,Rihanna,Umbrella,Vinyl,Rap,2019-11-20
+a1500,Adele,Location,Tape,Hip-Hop,2023-04-10
+hs160,Harry Styles,Montero,Tape,Kwaito,2014-01-29
+hs170,Harry Styles,Blinding Lights,CD,Pop,2022-02-06
+hs180,Harry Styles,Levitating,Vinyl,Rap,2015-01-21
+tw190,The Weeknd,Without Me,Tape,Rap,2010-08-27
+bm200,Bruno Mars,Stay With Me,CD,Classical,2010-11-20
